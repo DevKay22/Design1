@@ -8,6 +8,7 @@ const Header = () => {
         <div className='bg-overlay'>
 
         </div>
+        {/* Navigation bar */}
         <div className='container'>
         <div className='logo'>
             <div id='blue'>S</div>
