@@ -76,6 +76,9 @@
     font-size: 400;
 }
 
+.navItems>div{
+    cursor: pointer;
+}
 .herobanner{
     margin-top: 9.5em;
     position: relative;
