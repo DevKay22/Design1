@@ -7,7 +7,7 @@
 }
 
 .successStory1{
-    margin: 2.5rem auto;
+    margin: .5rem auto;
     height: 12rem;
     display: flex;
     justify-content: space-around;
@@ -38,4 +38,12 @@ p{
 
 span{
     color: #00fff3;
+}
+
+.storyBg{
+    background-color: #f0f3f4;
+    height: 31em;
+    padding: 2rem auto;
+    margin: 3em auto;
+    /* padding: 3rem auto; */
 }

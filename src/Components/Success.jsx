@@ -9,6 +9,8 @@ const Success = () => {
             SUCCESS STORY
         </div>
 
+
+        <div className='storyBg'>
         <div className='successStory1'>
             <div className='story1'>
                 <img src={img4} alt="" />
@@ -45,6 +47,8 @@ const Success = () => {
             </div>
 
         </div>
+        </div>
+       
     </div>
   )
 }
