@@ -1,10 +1,10 @@
 import React from 'react';
 import '../Styles/Gallery.css';
-import img1 from '../assets/Images/blog17.jpg';
+import img1 from '../assets/Images/blog4.jpg';
 import img2 from '../assets/Images/blog2.jpg';
-import img3 from '../assets/Images/blog21.jpg';
+import img3 from '../assets/Images/blog20.jpg';
 import img4 from '../assets/Images/blog90.jpg';
-import img5 from '../assets/Images/blog95.jpg';
+import img5 from '../assets/Images/blog5.jpg';
 import img6 from '../assets/Images/blog97.jpg';
 
 
