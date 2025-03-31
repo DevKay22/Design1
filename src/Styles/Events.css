@@ -10,7 +10,7 @@
     display: flex;
     width: 90%;
     /* border: 1px solid red; */
-    height: 22em;
+    /* height: 22em; */
     margin: 2em auto;
     justify-content: space-between;
 }
@@ -56,4 +56,27 @@ button{
     border: none;
     border-radius: 0.3em;
     margin-bottom: 1.5em;
+}
+
+.partner{
+    height: 15rem;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3em auto;
+    border: 1px solid red;
+}
+
+.partner>div{
+    border: 1px solid red;
+    /* height: 4rem; */
+    /* width: 30%; */
+}
+
+partner>div>h1{
+
+    display: flex;
+
+    justify-content: center;
 }

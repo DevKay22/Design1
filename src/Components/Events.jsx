@@ -87,6 +87,21 @@ const Events = () => {
           </div>
 
         </div>
+
+
+        <div className='partner'>
+            <div>
+              <h1>
+                PARTNERSHIPS
+              </h1>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit
+                . Eveniet, eaque. Dolores temporibus amet laborum assumenda officia, libero similique fuga debitis, autem ipsam, quibusdam accusamus. Sed reprehenderit iure laborum a ipsa?
+              </p>
+
+              <button>Read More</button>
+            </div>
+        </div>
     </div>
   )
 }
