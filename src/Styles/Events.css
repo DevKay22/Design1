@@ -5,3 +5,55 @@
     padding-bottom: 0.5em;
     border-bottom: dashed 3px #00fff3;
 }
+
+.theEvents{
+    display: flex;
+    width: 90%;
+    /* border: 1px solid red; */
+    height: 22em;
+    margin: 2em auto;
+    justify-content: space-between;
+}
+
+.event1{
+    width: 48%;
+    /* border: 1px solid red; */
+}
+
+.person1{
+    width: 100%;
+    /* border: 1px solid red; */
+    margin-bottom: 1em;
+    height: 15em;
+    
+}
+
+.iconCont{
+    display: flex;
+    /* border: 1px solid red; */
+    justify-content: space-evenly;
+    margin: 1.5em a;
+}
+
+.iconCont>div{
+    /* border: 1px solid red; */
+    width: 50%;
+}
+.iccon{
+    margin-right: 0.6em;
+    /* border: 1px solid red; */
+    height: 1.5em;
+    
+}
+
+button{
+    margin-top: 1.3em;
+    height: 2.7em;
+    padding: 0.45em 0.8em;
+    text-transform: uppercase;
+    font-weight: 700;
+    background-color: #00fff3;
+    border: none;
+    border-radius: 0.3em;
+    margin-bottom: 1.5em;
+}
