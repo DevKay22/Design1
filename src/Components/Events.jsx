@@ -88,21 +88,27 @@ const Events = () => {
 
         </div>
 
-
-        <div className='partner'>
-            <div>
-              <h1>
-                PARTNERSHIPS
+<div>
+<div className='partner'>
+          <div>
+              < h1 className='part'>
+                PARTNER WITH US
               </h1>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit
-                . Eveniet, eaque. Dolores temporibus amet laborum assumenda officia, libero similique fuga debitis, autem ipsam, quibusdam accusamus. Sed reprehenderit iure laborum a ipsa?
+                . Eveniet, eaque. Dolores fuga debitis, autem ipsam, quibusdam accusamus. Sed reprehenderit iure laborum a ipsa?
               </p>
 
               <button>Read More</button>
-            </div>
+          </div>
+</div>
+        <div className='partner-overlay'>
+        
         </div>
-    </div>
+        
+
+</div>
+</div>
   )
 }
 
