@@ -4,6 +4,14 @@ import person1 from '../assets/Images/person1.jpeg';
 import person2 from '../assets/Images/blog16.jpg'
 import { FaCalendarAlt } from "react-icons/fa";
 import { IoPerson } from "react-icons/io5";
+import avatara from '../assets/Images/avatar4.jpg';
+import avatarb from '../assets/Images/avatar9.jpg';
+import avatarc from '../assets/Images/avatar15.jpg';
+import { FaFacebookF } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
+import { FaInstagramSquare } from "react-icons/fa";
+import { MdOutlineContactPhone } from "react-icons/md";
+import { CgMail } from "react-icons/cg";
 
 const Events = () => {
   return (
@@ -108,6 +116,100 @@ const Events = () => {
         
 
 </div>
+
+<div className='employees'>
+  <div className='emplA'>
+    <div className='up'>
+      <div className='avatara'>
+        <img src={avatara} alt="" />
+      </div>
+      <div>
+        <h1>JOVINTA</h1>
+        <p>DEVELOPER</p>
+        <span className='socialIcons'>
+        <FaFacebookF />
+        <FaXTwitter />
+        <FaInstagramSquare />
+        </span>
+        
+      </div>
+      {/* <div className='devIcons'>
+        
+      </div> */}
+    </div>
+    <div className='contacts'>
+    <p>
+    <MdOutlineContactPhone  className='conticons'/> +01 23678 9778
+    </p>
+    <p>
+    <CgMail className='conticons' /> xyz@gmail.com
+    </p>
+    </div> 
+   
+  </div>
+
+    <div className='emplA'>
+    <div className='up'>
+      <div className='avatara'>
+        <img src={avatarb} alt="" />
+      </div>
+      <div>
+        <h1>MARY</h1>
+        <p>DEVELOPER</p>
+        <span className='socialIcons'>
+        <FaFacebookF />
+        <FaXTwitter />
+        <FaInstagramSquare />
+        </span>
+        
+      </div>
+      {/* <div className='devIcons'>
+        
+      </div> */}
+    </div>
+    <div className='contacts'>
+    <p>
+    <MdOutlineContactPhone  className='conticons'/> +01 23678 9778
+    </p>
+    <p>
+    <CgMail className='conticons' /> xyz@gmail.com
+    </p>
+    </div> 
+   
+    </div>
+    
+    <div className='emplA'>
+    <div className='up'>
+      <div className='avatara'>
+        <img src={avatarc} alt="" />
+      </div>
+      <div>
+        <h1>COLLINS</h1>
+        <p>DEVELOPER</p>
+        <span className='socialIcons'>
+        <FaFacebookF />
+        <FaXTwitter />
+        <FaInstagramSquare />
+        </span>
+        
+      </div>
+      {/* <div className='devIcons'>
+        
+      </div> */}
+    </div>
+    <div className='contacts'>
+    <p>
+    <MdOutlineContactPhone  className='conticons'/> +01 23678 9778
+    </p>
+    <p>
+    <CgMail className='conticons' /> xyz@gmail.com
+    </p>
+    </div> 
+   
+    </div>
+</div>
+
+
 </div>
   )
 }
