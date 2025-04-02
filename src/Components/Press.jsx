@@ -7,6 +7,9 @@ import img87 from '../assets/Images/blog87.jpg';
 const Press = () => {
   return (
     <div>
+        <div className='press'>
+            PRESS RELEASES
+        </div>
         <div className='pressCont'>
             <div>
                 <div className='pressImg'><img src={img80} alt="" /></div>
