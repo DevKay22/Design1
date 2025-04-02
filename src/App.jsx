@@ -5,6 +5,7 @@ import Why from './Components/Why';
 import Gallery from './Components/Gallery';
 import Success from './Components/Success';
 import Events from './Components/Events';
+import Press from './Components/Press';
 const App = () => {
   return (
     <div>
@@ -14,6 +15,8 @@ const App = () => {
       <Gallery />
       <Success />
       <Events />
+      <Press />
+      
     </div>
   )
 }

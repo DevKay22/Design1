@@ -1,0 +1,25 @@
+.pressCont{
+    height: 29em;
+    margin: 2em 0;
+    display: flex;
+    justify-content: space-between;
+    padding: 2em 6em;
+    background-color:#f2f3f4;
+}
+
+
+
+.pressCont>div{
+    width: 32%;
+    background-color: #fdfefe;
+    
+}
+
+#pressStory{
+    font-size: 0.9em;
+    font-weight: 400;
+}
+
+.pressRead{
+    color: #3498db;;
+}
