@@ -6,6 +6,7 @@ import Gallery from './Components/Gallery';
 import Success from './Components/Success';
 import Events from './Components/Events';
 import Press from './Components/Press';
+import Testimonials from './Components/Testimonials';
 const App = () => {
   return (
     <div>
@@ -16,6 +17,7 @@ const App = () => {
       <Success />
       <Events />
       <Press />
+      <Testimonials />
       
     </div>
   )
