@@ -11,7 +11,7 @@
     width: 84%;
     /* border: 1px solid red; */
     height: 11em;
-    margin: 1em auto;
+    margin: 1em auto 3em;
     display: flex;
     justify-content: space-between;
 }
