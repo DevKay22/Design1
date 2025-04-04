@@ -1,0 +1,40 @@
+
+.testiTag{
+    font-weight: 700;
+    width: 11em;
+    margin: 2em auto 2em auto;
+    padding-bottom: 0.5em;
+    border-bottom: dashed 3px #00fff3;
+}
+
+.testimonial{
+    width: 84%;
+    /* border: 1px solid red; */
+    height: 11em;
+    margin: 1em auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.img{
+    width: 25%;
+    /* border: 1px solid green; */
+}
+
+.content{
+    width: 65%;
+    /* border: 1px solid green; */
+}
+
+.content>h1{
+    margin-bottom: 0.8em;
+}
+
+.content>p{
+    font-size: 0.9em;
+}
+
+p:nth-child(3){
+    color: #3498db;
+    font-size: 1em;
+}
