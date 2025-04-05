@@ -8,7 +8,7 @@
 
 .pressCont{
     height: 29em;
-    margin: 2em 0;
+    margin: 2em 0 0 0;
     display: flex;
     justify-content: space-between;
     padding: 2em 6em;
