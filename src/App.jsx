@@ -18,8 +18,9 @@ const App = () => {
       <Gallery />
       <Success />
       <Events />
-      <Press />
+      {/* <Press /> */}
       <Testimonials />
+      <Press />
       <Contacts />
       
     </div>

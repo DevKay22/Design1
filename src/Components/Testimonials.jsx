@@ -4,7 +4,7 @@ import avatar2 from '../assets/Images/avatar2.jpg';
 import avatar12 from '../assets/Images/avatar12.jpg';
 const Testimonials = () => {
   return (
-    <div >
+    <div className='testy' >
       <h1 className='testiTag'>
         OUR TESTIMONIALS
       </h1>

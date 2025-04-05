@@ -2,7 +2,7 @@
     margin-top: 2em;
     width: 100%;
     /* height: 20em; */
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     justify-content: space-between;
 
@@ -105,17 +105,33 @@ input::placeholder{
 }
 
 .formDet{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 90%;
     height: 10em;
 }
 
 .nice{
-    border: 1px solid red;
-    height: 100%;
+    /* border: 1px solid red; */
+    height: 70%;
     width: 80%;
     margin: 0 4em;
+    padding-top: 3em;
     
+}
+
+.whiner{
+    width: 80%;
+    margin: 0 4em;
+    /* border: 1px solid red; */
+    height: 2.7em;
+}
+
+.whiner>button{
+    width: 100%;
+    height: 100%;
+    font-size: 1.3em;
+    cursor: pointer;
+    background-color: #3498db;
 }
 
 textarea{
@@ -123,12 +139,5 @@ textarea{
     width: 100%;
 }
 
-.join{
-    font-size: 1.2em;
-    margin-top: 2em;
-}
 
-.theBtn{
-    border: 1px solid red;
-}
 
