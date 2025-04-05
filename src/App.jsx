@@ -8,6 +8,7 @@ import Events from './Components/Events';
 import Press from './Components/Press';
 import Testimonials from './Components/Testimonials';
 import Contacts from './Components/Contacts';
+import Footer from './Components/Footer';
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
       <Testimonials />
       <Press />
       <Contacts />
+      <Footer />
       
     </div>
   )
