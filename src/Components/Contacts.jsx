@@ -45,8 +45,14 @@ const Contacts = () => {
             </div>
         </div>
         <div className='contactForm'>
+            
+           <p>Hello</p>
 
         </div>
+           
+            
+            
+        
     </div>
   )
 }
