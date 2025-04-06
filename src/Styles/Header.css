@@ -45,7 +45,7 @@
  
 }
 .login{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     flex: 1;
     /* position: absolute; */
     /* z-index: 1; */
@@ -54,7 +54,7 @@
 .logo{
     display: flex;
     width: 50%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     flex: 1;
 }
 .logo div{
@@ -87,7 +87,7 @@
     color: #fff;
     font-size: 1.1em;
     font-weight: 500;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     flex: 3;
     
     

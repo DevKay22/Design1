@@ -98,7 +98,8 @@ const Events = () => {
 
 <div>
 <div className='partner'>
-          <div>
+         <div className='partneroverlay'></div>
+          <div className='partnercontent'>
               < h1 className='part'>
                 PARTNER WITH US
               </h1>
