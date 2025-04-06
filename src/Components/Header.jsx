@@ -16,14 +16,17 @@ const Header = () => {
             <div id='blue'>A</div>
         </div>
         <div className='navItems'>
-            <div>Home</div>
-            <div>About</div>
-            <div>Services</div>
-            <div>Story</div>
-            <div>Gallery</div>
-            <div>Event</div>
-            <div>Contact</div>
-            <div>Login</div>
+            <div className='navitem'>Home</div>
+            <div className='navitem'>About</div>
+            <div className='navitem'>Services</div>
+            <div className='navitem'>Story</div>
+            <div className='navitem'>Gallery</div>
+            <div className='navitem'>Event</div>
+            <div className='navitem'>Contact</div>
+            
+        </div>
+        <div className='login'>
+            <button>LOGIN</button>
         </div>
     </div>
 
